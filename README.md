@@ -1,16 +1,9 @@
-# uts_login_register
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+NAMA : DEA CIPTA NINGRUM AIMANTA PUTR
+NIM : 362358302147
+KELAS : 2A TRPL
+1. Tampilan Halaman Log in
+   ![Screenshot (1223)](https://github.com/user-attachments/assets/889d5ed1-96ec-4889-a4e1-29be68f6d98f)
+2. Tampilan profil setelah melakukan log in
+   ![Screenshot (1224)](https://github.com/user-attachments/assets/15a648a9-19e8-4896-99b8-0aab2871cf2e)
+3. Tampilan Register
+   ![Screenshot (1227)](https://github.com/user-attachments/assets/ea309cda-00cb-49b3-8ca6-fdd1dbacd3ed)
